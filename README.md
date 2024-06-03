@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Dor+Ben+Dov;T-PDM+%7C+Research+%7C+Startups+%7C+Technology+enthusiast+%7C+AI+%7C+Public+%26+Private+clouds+%7C+Cloud-Native)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Dor+Ben+Dov;T-PDM+%7C+Software+Architect+%7C+AI%2C+LLM%2C+Ollama%2C+GPTs%2C+Midjourney+%7C+Design+%26+Code+%7C+Public+%26+Private+Cloud+%7C+Cloud+Native)](https://git.io/typing-svg)
 
 ## Hi there 👋
 
