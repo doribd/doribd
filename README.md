@@ -8,8 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently working on newsCollector project
-- 🌱 I’m currently learning Quantum Computing & PQC algorithms
+- 🔭 I’m currently learning Quantum Computing & PQC algorithms
 - 📫 How to reach me [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dorbendov)
 - ⚡ My Moto: Keep it simple
 
