@@ -8,7 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently learning Quantum Computing & PQC algorithms
+- 🔭 I’m currently learning Agentic AI, MCP, Quantum Computing, Unity.
 - 📫 How to reach me [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dorbendov)
 - ⚡ My Moto: Keep it simple
 
