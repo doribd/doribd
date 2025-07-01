@@ -8,7 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently learning Agentic AI, MCP, Quantum Computing, Unity.
+- 🔭 I’m currently developing using gemini-cli, claude code while working on Agentic AI, MCP.
+- 🔭 I'm currently learning Unity and Quantum Computing.- 
 - 📫 How to reach me [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dorbendov)
 - ⚡ My Moto: Keep it simple
-
