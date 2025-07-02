@@ -8,7 +8,10 @@
 </a>
 
 
-- 🔭 I’m currently developing using gemini-cli, claude code while working on Agentic AI, MCP.
-- 🔭 I'm currently learning Unity and Quantum Computing.- 
-- 📫 How to reach me [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dorbendov)
-- ⚡ My Moto: Keep it simple
+### 👋 Hi there!
+
+- 🤖 I’m currently exploring and building AI programs using **Gemini CLI**, **Claude Code**, **OpenAI Codex**, and experimenting with **Agentic AI** and custom **MCP servers**.
+- 🧠 In parallel, I’m continuing to learn **Unity** and dive deeper into **Quantum Computing**.
+- 📫 How to reach me: [![LinkedIn](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dorbendov)
+- ⚡ My Motto: *Keep it simple*
+
